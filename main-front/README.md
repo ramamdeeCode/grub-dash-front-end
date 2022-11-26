@@ -8,7 +8,7 @@
 
 ## Description
 
-- This is an API project following **RESTful design principles** for a Grub-Dash-Front-End found [here](https://github.com/ramamdeeCode/Project-GrubDash/blob/master/grubdash-main/README.md)
+- This is an API project following **RESTful design principles** for a Grub-Dash-Back-End found [here](https://github.com/ramamdeeCode/Project-GrubDash/blob/master/grubdash-main/README.md)
 
 [live Server](https://grub-dash-frontend.onrender.com)
 
